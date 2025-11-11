@@ -8,3 +8,4 @@ git config --global user.email 'your_email'
 ### Aliases:  
 git config --global alias.st status  
 git config --global alias.tree 'log --graph --decorate --pretty=oneline --abbrev-commit'  
+git config --global alias.list 'log --decorate --pretty=oneline --abbrev-commit'  
